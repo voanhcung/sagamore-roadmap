@@ -22,10 +22,13 @@ Firstly, there should one successful mission of deploying a constellation, to ge
     
     The craft must have an energy-efficient computational, communication, and consensus architecture.
     
-    The craft must have a redundant and autonomous propulsion system that prioritizes longevity over impulsivity. This system should last only as long as the prescribed lifespan of the craft, with allowance for end-of-life sequestration.
+    The craft must have a redundant and autonomous propulsion system that prioritizes longevity over impulsivity. 
+    This system should last only as long as the prescribed lifespan of the craft, with allowance for end-of-life sequestration.
     
-    The craft must have a redundant, parallel energy collection, storage, and distribution system. While solar energy may be the easiest and only source for the first iterative mission,
-     there may be an application in further iterations that demands solar-independent energy sources, such as plutonium-based power generators. This system should last only as long as the prescribed lifespan of the craft, with allowance for end-of-life sequestration.
+    The craft must have a redundant, parallel energy collection, storage, and distribution system.
+    While solar energy may be the easiest and only source for the first iterative mission,
+    there may be an application in further iterations that demands solar-independent energy sources, such as plutonium-based power generators.
+    This system should last only as long as the prescribed lifespan of the craft, with allowance for end-of-life sequestration.
     
     The prescribed lifespan of the craft must overlap further missions of the same format, with allowance for forking codebase.
 
